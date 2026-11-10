@@ -1,3 +1,7 @@
 
 # PDF Documents
 *.pdf
+
+# Documentation (Local only)
+docs/
+
